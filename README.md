@@ -1,5 +1,5 @@
 # php-poll-platform
-## <img src="img/logo.jpg" alt="QuestionHouse Logo" width="40"/> QuestionHouse is a simple PHP-based poll platform that allows users to participate in polls created and managed by the system administrator.
+## <img src="screenshots/logo.jpg" alt="QuestionHouse Logo" height= "100" width="100"/> QuestionHouse is a simple PHP-based poll platform that allows users to participate in polls created and managed by the system administrator.
 
 ## 📖 Description
 This project was created in Greek as a training exercise for my university Web Development course in 2020.  
