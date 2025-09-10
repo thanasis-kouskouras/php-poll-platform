@@ -119,7 +119,7 @@ Contributions are welcome and greatly appreciated! To get started, please follow
 3. **Make your changes and commit them**
    ```bash
    git commit -m 'Add the new feature'
-4. **Push to your branch**
+4. **Push to the branch**
    ```bash
    git push origin feature/NewFeature
 5. **Open a Pull Request**
