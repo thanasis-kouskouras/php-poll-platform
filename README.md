@@ -34,10 +34,10 @@ Apart from the login system, most of the remaining code functions mainly as **fr
 
 <div align="center">
 
-#### User login interface
+#### Login interface
 ![Login Page](screenshots/login-page.jpg)
 
-#### User Sign Up interface
+#### Sign Up interface
 ![Sign up Page](screenshots/signup-page.jpg)
 
 #### Administrative panel for managing polls
