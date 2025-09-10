@@ -1,4 +1,4 @@
-# php-poll-platform
+# PHP Poll Platform
 <table>
 <tr><td width="100">
 <img src="screenshots/logo.jpg" alt="QuestionHouse Logo" height="100" width="100"/>
