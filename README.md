@@ -77,7 +77,7 @@ Apart from the login system, most of the remaining code functions mainly as **fr
    
    - **For Linux/Mac (with XAMPP/LAMP):**
      ```bash
-     cp -r php-poll-platform /xampp/htdocs/
+     cp -r php-poll-platform /opt/lampp/htdocs/
      ```
 4. **Start XAMPP services**
    - Start **Apache server**
