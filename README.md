@@ -34,21 +34,17 @@ Apart from the login system, most of the remaining code functions mainly as **fr
 
 <div align="center">
 
-#### Login Page
+#### User login interface
 ![Login Page](screenshots/login-page.jpg)
-*User login interface*
 
-#### Sign up Page
+#### User Sign Up interface
 ![Sign up Page](screenshots/signup-page.jpg)
-*User Sign Up page*
 
-#### Admin Dashboard
+#### Administrative panel for managing polls
 ![Admin Dashboard](screenshots/admin-dashboard.jpg)
-*Administrative panel for managing polls*
 
-#### Poll Interface
+#### Poll participation interface
 ![Poll Interface](screenshots/poll-interface.jpg)
-*Poll participation interface*
 
 </div>
 
@@ -116,16 +112,16 @@ Contributions are welcome and greatly appreciated! To get started, please follow
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/thanasis-kouskouras/php-poll-platform.git'''
+   git fork https://github.com/thanasis-kouskouras/php-poll-platform.git
 2. **Create a feature branch**
    ```bash
-   git checkout -b feature/AmazingFeature'''
+   git checkout -b feature/NewFeature
 3. **Make your changes and commit them**
    ```bash
-   git commit -m 'Add some AmazingFeature''''
+   git commit -m 'Add the new feature'
 4. **Push to your branch**
    ```bash
-   git push origin feature/AmazingFeature'''
+   git push origin feature/NewFeature
 5. **Open a Pull Request**
    - Go to the original repository on GitHub
    - Click **"New Pull Request"**
