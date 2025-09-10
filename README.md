@@ -89,7 +89,7 @@ Apart from the login system, most of the remaining code functions mainly as **fr
 
 6. **Access the application**
    
-   Open your browser and navigate to: http://localhost/php-poll-platform/ .
+   Open your browser and navigate to: http://localhost/php-poll-platform/
 
 
 ## 🔑 Default Credentials
