@@ -107,7 +107,7 @@ For initial access to the application, use the following predefined accounts:
 
 - **Test user account**  
   - **Username:** `JohnDoe`  
-  - **Password:** `John_Doe`  
+  - **Password:** `john_doe`  
 
 ⚠️ **Security Note:** It is strongly recommended to change the default admin credentials for security purposes.
 
