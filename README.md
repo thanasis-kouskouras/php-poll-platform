@@ -79,13 +79,18 @@ Apart from the login system, most of the remaining code functions mainly as **fr
      ```bash
      cp -r php-poll-platform /opt/lampp/htdocs/
      ```
-4. **Start XAMPP services**
+3. **Start XAMPP services**
    - Start **Apache server**
    - Start **MySQL**
 
-5. **Create the database**
+4. **Create the database**
    - Open phpMyAdmin in your browser: http://localhost/phpmyadmin
+   - Create a new database for the project
    - Import the SQL file provided in the project (`questionhouse.sql`)
+  
+5. **Configure database connection**
+   - Update database credentials in your connection files
+   - Ensure proper database configuration
 
 6. **Access the application**
    
